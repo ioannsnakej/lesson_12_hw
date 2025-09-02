@@ -46,13 +46,15 @@
   
   <img width="597" height="118" alt="image" src="https://github.com/user-attachments/assets/fab5b1e0-935e-4e1d-bd55-20f4f61c963b" />
 
-  <img width="619" height="431" alt="image" src="https://github.com/user-attachments/assets/9d1fdcc6-925a-47e9-b632-4e7f99418e6d" />
+  <img width="860" height="436" alt="image" src="https://github.com/user-attachments/assets/24424406-e9d7-48c5-8c02-da3087abec68" />
 
   Проверки:
 
   <img width="764" height="528" alt="image" src="https://github.com/user-attachments/assets/661e3bf8-2668-4321-9c39-73a2517705f3" />
 
   <img width="1171" height="159" alt="image" src="https://github.com/user-attachments/assets/621c69f0-5586-4248-afdf-444a06b6d57e" />
+
+  <img width="949" height="167" alt="image" src="https://github.com/user-attachments/assets/fcf10a1a-cfb7-4171-a010-1d0e3924dc6c" />
 
   5. Написать скрипт с использованием цикла for, выводящий на консоль
 размеры и права доступа для всех файлов в заданном каталоге и всех
