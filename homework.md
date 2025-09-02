@@ -54,6 +54,26 @@
 
   <img width="1171" height="159" alt="image" src="https://github.com/user-attachments/assets/621c69f0-5586-4248-afdf-444a06b6d57e" />
 
+  5. Написать скрипт с использованием цикла for, выводящий на консоль
+размеры и права доступа для всех файлов в заданном каталоге и всех
+его подкаталогах (имя каталога задается пользователем в качестве
+первого аргумента командной строки).
+
+  Текст скрипта:
+
+  <img width="701" height="526" alt="image" src="https://github.com/user-attachments/assets/b96c2bb7-c54c-4b33-bce1-e15bf1bf83bd" />
+
+  Запуски:
+
+  <img width="1235" height="941" alt="image" src="https://github.com/user-attachments/assets/3ffa0a08-dcd3-46bd-a101-77c3c59a71ff" />
+
+  <img width="849" height="294" alt="image" src="https://github.com/user-attachments/assets/865f291e-6807-4d3f-a99f-b6a22344360f" />
+
+  
+
+
+
+
 
 
 
